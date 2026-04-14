@@ -1,0 +1,18 @@
+{
+  "name": "PME Manager — Gestion RH & Finances",
+  "short_name": "PME Manager",
+  "description": "Gestion du personnel et des finances pour PME africaines",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#C0533A",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
